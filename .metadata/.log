@@ -5787,3 +5787,29 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.oomph.setup.ui 1 0 2019-03-21 18:39:54.772
 !MESSAGE Setup tasks were performed during startup updating 4 preferences. See 'C:\Java\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
+
+!ENTRY org.eclipse.core.resources 2 2 2019-03-21 19:31:56.487
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-03-21 19:31:56.487
+!MESSAGE The project description file (.project) for '20190319_HelloWorld' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-21 19:32:51.652
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.core.resources 2 2 2019-03-21 19:36:57.172
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-03-21 19:36:57.172
+!MESSAGE The project description file (.project) for '20190321_Page' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.ui.ide 4 4 2019-03-21 19:37:31.578
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2019-03-21 19:37:31.578
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-03-21 19:37:31.578
+!MESSAGE The project description file (.project) for '20190319_HelloWorld' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-03-21 19:37:31.578
+!MESSAGE The project description file (.project) for '20190321_Page' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-03-21 19:37:33.213
+!MESSAGE The workspace will exit with unsaved changes in this session.
