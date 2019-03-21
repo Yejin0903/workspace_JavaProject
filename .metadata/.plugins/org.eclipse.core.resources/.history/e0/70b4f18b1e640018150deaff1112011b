@@ -1,0 +1,11 @@
+
+public class judy {
+
+	public static void main(String[] args) {
+		for(int i=1;i<=999;i++) {
+			System.out.println("°¡¿¬¼±¹è´Ô »ç¶ûÇØ¿ä");
+		}
+
+	}
+
+}
