@@ -7,13 +7,13 @@ public class Echo {
 		while(true) {
 		System.out.println("원하는 것을 아무거나 입력하세요 :");
 		Scanner scanner=new Scanner(System.in);
-		String english=scanner.nextLine();
+		String text=scanner.nextLine();
 		
-		if(english.equals("exit")) {
+		if(text.equals("exit")) {
 			System.out.println("종료");
 			break;
 		}
-		System.out.println(english);
+		System.out.println(text);
 
 		}
 	}
