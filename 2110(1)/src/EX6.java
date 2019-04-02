@@ -6,7 +6,8 @@ public class EX6 {
 		String strData1=" I LOVE MIRIM MEISTER ";
 		String strData3=strData1.substring(8);
 		System.out.println("strData3.substring(8) ->"+ strData3);
-		strData3=strData1.substring()
+		strData3=strData1.substring(2,6);
+		System.out.println("strData3.substring(2,6) ->"+strData3);
 	}
 
 }

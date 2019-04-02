@@ -4,7 +4,8 @@ public class Echo {
 //입력,출력 무한반복
 //exit하면 끝내기
 	public static void main(String[] args) {
-		while(true) {
+		//반복
+		while(true) { 
 		System.out.println("원하는 것을 아무거나 입력하세요 :");
 		Scanner scanner=new Scanner(System.in);
 		String text=scanner.nextLine();
