@@ -7,6 +7,7 @@ public class EX17 {
 		System.out.println(Math.abs(-63));
 		System.out.println(Math.abs(63.5));
 		System.out.println(Math.abs(-63.5));
+		//Math:수학적 계산을 도움
 	}
 
 }

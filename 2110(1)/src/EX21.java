@@ -9,6 +9,7 @@ public class EX21 {
 		System.out.println((int)(Math.random()*5));
 		System.out.println((int)(Math.random()*10));
 		System.out.println((int)(Math.random()*100));
+		//°ıÈ£ ¾È ³ÖÀ¸¸é ´Ù 0 ³ª¿È
 
 	}
 }

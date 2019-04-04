@@ -8,6 +8,7 @@ public class EX15 {
 		System.out.println(Integer.valueOf(stri));
 		System.out.println(Double.valueOf(strd));
 		System.out.println(Integer.valueOf(stri)+Double.valueOf(strd));
+		//원래 string은 더하면 쭉 나열되지만 valueof로 바꿔주어서 숫자로 더해짐
 	}
 
 }
