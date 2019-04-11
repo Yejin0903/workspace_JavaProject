@@ -19,7 +19,8 @@ public class UpDownBot {
 		
 		while(true) {
 		int cNum=random.nextInt(100+1);//0~99
-		
+			}
+
 		if(uNum==cNum) {
 			System.out.println("컴퓨터가 생각한 수 >> "+cNum);
 			System.out.println("정답입니다."+count+"번 만에 맞추셨습니다.");
@@ -36,7 +37,6 @@ public class UpDownBot {
 			count++;
 		}
 		
-	}
 
 }
 }

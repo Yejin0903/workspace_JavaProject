@@ -6,6 +6,11 @@ public class Nsum {
 		System.out.print("원하는 숫자를 입력하세요 : ");
 		Scanner scanner=new Scanner(System.in);
 		String number=scanner.nextLine();
+		//각 자릿수의 수를 더하자
+		nSum(number);
+	}
+
+	private static void nSum(String number) {
 		int length=number.length();
 		int sum=0;
 		for(int i=0;i<length;i++) {
