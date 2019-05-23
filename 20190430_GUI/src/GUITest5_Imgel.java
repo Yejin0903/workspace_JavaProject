@@ -24,6 +24,9 @@ public class GUITest5_Imgel {
 				ImageIcon smallchimmy=new ImageIcon(chimmy.getImage().getScaledInstance(200,200,Image.SCALE_DEFAULT));
 				JButton imageButton=new JButton(smallchimmy);
 				
+				imageButton.setRolloverIcon(chimmy);  //마우스 올리면
+				imageButton.setRolloverIcon(kookie);  //마우스 클릭하면
+				
 				panel.add(imageLabel);
 				panel.add(imageButton);
 				frame.add(panel);
