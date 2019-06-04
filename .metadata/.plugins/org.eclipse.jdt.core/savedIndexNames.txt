@@ -11,8 +11,8 @@ INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace\.metadata\.plugins\org.ecli
 21486501.index
 1499627867.index
 424447496.index
-4066226787.index
 3964923001.index
+4066226787.index
 1630848587.index
 3840293484.index
 170821048.index
@@ -42,10 +42,11 @@ INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace\.metadata\.plugins\org.ecli
 4158856024.index
 3077365879.index
 4113593978.index
-3603978478.index
 1583749204.index
+3603978478.index
 1851668056.index
 4117136110.index
+3607809991.index
 658690865.index
 4079387423.index
 1800725465.index
@@ -70,8 +71,9 @@ INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace\.metadata\.plugins\org.ecli
 2847541801.index
 1932846052.index
 1181697407.index
-2646084109.index
 699245563.index
+2646084109.index
+2933290851.index
 2098839509.index
 1659023346.index
 2621551540.index
@@ -81,8 +83,8 @@ INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace\.metadata\.plugins\org.ecli
 2662964231.index
 88662542.index
 3929911902.index
-1781519013.index
 1593673412.index
+1781519013.index
 2184660716.index
 2583632527.index
 3486214575.index
@@ -110,6 +112,7 @@ INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace\.metadata\.plugins\org.ecli
 1714276370.index
 2600712053.index
 475255631.index
+2353883275.index
 3618832045.index
 56498027.index
 3179953034.index
@@ -122,6 +125,7 @@ INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace\.metadata\.plugins\org.ecli
 1478078503.index
 2173726253.index
 2764987716.index
+3041594149.index
 1836460448.index
 1235925122.index
 3624653020.index
